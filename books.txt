@@ -1,0 +1,103 @@
+AI Foundations
+Machine Learning Essentials
+Deep Learning Architectures
+Data Science Handbook
+Generative AI Principles
+Neural Network Design
+Computer Vision Applications
+Natural Language Understanding
+Predictive Analytics Guide
+Intelligent Systems Engineering
+Prompt Engineering Mastery
+Large Language Model Development
+Applied Artificial Intelligence
+Modern Data Mining
+Advanced Pattern Recognition
+Reinforcement Learning Concepts
+AI Model Evaluation
+Statistical Learning Methods
+Data Wrangling Techniques
+Python for Machine Intelligence
+Feature Selection Strategies
+Knowledge Discovery Systems
+MLOps Implementation Guide
+AI Deployment Practices
+Cloud-Based Machine Learning
+Scalable Data Processing
+Digital Intelligence Frameworks
+Transformer Model Engineering
+Semantic Search Technologies
+Multimodal AI Systems
+Decision Intelligence Analytics
+AI-Powered Automation
+Text Analytics Fundamentals
+Image Intelligence Computing
+Speech Processing Algorithms
+Human-Centered AI Design
+Responsible AI Development
+Explainable Machine Learning
+Edge Intelligence Solutions
+Autonomous Agent Systems
+Business Data Analytics
+Computational Intelligence
+Big Data Ecosystems
+Applied Deep Neural Networks
+AI Product Engineering
+Data Visualization Excellence
+Intelligent Data Management
+Cognitive Computing Methods
+AI Research Methodology
+Advanced NLP Systems
+Modern Computer Vision
+Machine Intelligence Design
+AI Security Fundamentals
+Graph Analytics Techniques
+Optimization for AI Models
+Data Governance Frameworks
+Cloud AI Infrastructure
+Enterprise AI Applications
+Federated Learning Models
+Conversational AI Engineering
+Time Series Forecasting
+Intelligent Robotics Programming
+Mathematics for AI Engineers
+Probability in Data Science
+Linear Algebra Applications
+Applied Statistics for Analytics
+Generative Content Systems
+Retrieval Augmented Intelligence
+Vector Database Management
+AI Workflow Automation
+Computational Data Analysis
+Knowledge Representation Models
+Scientific Machine Learning
+AI Software Engineering
+Data-Driven Decision Systems
+Advanced Learning Algorithms
+Intelligent Information Retrieval
+Machine Reasoning Techniques
+Data Engineering Foundations
+AI Systems Architecture
+Algorithmic Intelligence
+Vision-Based Learning Systems
+Language Model Applications
+Distributed AI Computing
+Advanced Predictive Modeling
+Ethical Computing Practices
+AI Strategy and Innovation
+Applied Data Analytics
+Information Intelligence Systems
+Cyber AI Technologies
+Smart Computing Frameworks
+Intelligent Cloud Services
+Machine Perception Methods
+Learning System Optimization
+AI Integration Techniques
+Data Science Project Design
+Generative Modeling Approaches
+Intelligent Knowledge Systems
+Modern Analytics Engineering
+Advanced Artificial ReasoningPython Programming
+python programming
+java programming
+Dot Net
